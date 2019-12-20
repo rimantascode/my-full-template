@@ -1,7 +1,3 @@
-# Code Institute
+# My first website
 
-Welcome rimantascode,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Welcome!
